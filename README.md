@@ -1,2 +1,1 @@
-# Theorem_2
-Lean
+# Theorem_Library_MZ
